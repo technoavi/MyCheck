@@ -1,0 +1,13 @@
+{
+	"Målkort": {
+		"id": "4",
+		"name": "Personliga mål",
+		"description": "Personliga mål",
+		"MålkortQuestions": {
+			"id": "4",
+			"name": "B erätta på Intranätet om när vi gör något bra",
+			"description": "B erätta på Intranätet om när vi gör något bra",
+			"state": true
+		}
+	}
+}
